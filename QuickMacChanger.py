@@ -133,7 +133,7 @@ def check_wireless_interface():
         else:
             print("The wireless interface is active. But, somehow there is no MAC address found for the interface.")
     else:
-        print("{RED}No{RESET} wireless interface found.")
+        print(f"{RED}No{RESET} wireless interface found.")
 
 def main():
     parser = argparse.ArgumentParser(description='MAC Address Changing Utility')
