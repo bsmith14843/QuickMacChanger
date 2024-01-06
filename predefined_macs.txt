@@ -1,0 +1,5 @@
+# Format: MAC ADDRESS || DEVICENAME
+0C:47:C9:3E:08:B1 || Amazon Fire TV Stick
+00:23:C2:15:C6:67 || Samsung Smart TV
+9C:76:13:3B:8F:4E || Ring Doorbell
+
